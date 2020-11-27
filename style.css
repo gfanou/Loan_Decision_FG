@@ -1,0 +1,38 @@
+body {
+    background-color: lightgray;
+    text-align: center;
+}
+h1{
+    font-family: Georgia;
+    font-weight: bold;
+    margin-top: 3px;
+}
+fieldset {
+    background-color:aliceblue;
+    padding: 20px;
+    text-align: left;
+    line-height: 8px;
+    margin-top: 8px;
+}
+
+legend {
+    font-weight: bold;
+    padding-top: 8px;
+}
+
+.btn, .btn:hover {
+    background-color: darkgreen;
+}
+
+#message {
+    font-size: larger;
+}
+
+label.error {
+    /* Add a style here for your error messages */
+
+    color: deeppink;
+    font-size:smaller;
+    font-weight: bold;
+
+}
